@@ -1,0 +1,8 @@
+.hello{
+	text-align: left;
+}
+#bottom{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
